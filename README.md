@@ -36,16 +36,20 @@
 
 </p>
 
-Connect With Me <img src="assets/handshake.gif" width="40px"/>
+Connect With Me <img src="assets/handshake.gif" width="50px"/>
 
-<a href="https://www.linkedin.com/in/ankitkrmishra07/">
-  <img width="30px" src="assets/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/mishra_ankit07">
-  <img width="30px" src="assets/twitter.svg" />
-</a>
-<a href="mailto:ankit.kr.mishra07@gmail.com">
-  <img width="30px" src="assets/gmail.svg" />
-</a>
-</a>
+<div style="display:flex; gap:1rem; align-items: center;">
+    <a href="https://www.linkedin.com/in/ankitkrmishra07/">
+        <img width="30px" src="assets/linkedin.svg"  />
+    </a>
+    <a href="https://twitter.com/mishra_ankit07">
+        <img width="30px" src="assets/twitter.svg" />
+    </a>
+    <a href="https://leetcode.com/spartanleonidis/">
+        <img width="70px" src="assets/leetcode.svg" />
+    </a>
+    <a href="mailto:ankit.kr.mishra07@gmail.com">
+        <img width="30px" src="assets/gmail.svg" />
+    </a>
+</div>
 
