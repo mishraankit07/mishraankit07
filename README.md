@@ -1,47 +1,29 @@
-## Hey Internet <img src="assets/Hi.gif" width="29px">, I'm Ankit!
-<br />
+<h2>Hey Internet <img src="assets/Hi.gif" width="29px">, I'm Ankit!</h2>
 
+<h3>🚀 About Me</h3>
 <p>
-
-<h3> About Me  🚀 </h3>
-<p>
-🔭 Passionate Software Developer having 3+ years of experience with a knack for going in-depth of algorithms.
-</p><p>
-  Firm believer of consistency over motivation.
-</p><p>
-🌱 Working my way up towards open-source contributions.</p>
-<p>
-
-<br />
-  
-<h3>🛠 Tech Stack I currently use but not limited to/by </h3>
-<p>
-- 💻  &nbsp; Scala, Java, Spring Boot, Redis, Kafka, Kubernetes.
-  </p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
-<img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mishraankit07&show_icons=true&layout=compact&theme=tokyonight" alt="Most Used Languages">
-<br />
-<br />
-<img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=mishraankit07&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Status"/>
-
+🔭 Passionate Software Developer with 3+ years of experience and a knack for digging deep into algorithms.<br>
+💡 Firm believer in consistency over motivation.<br>
+🌱 Currently working my way towards contributing to open source.
 </p>
 
-Connect With Me <img src="assets/handshake.gif" width="50px"/>
+<h3>🛠 Tech Stack (but not limited to)</h3>
+<p>
+💻 Scala, Java, Spring Boot, Redis, Kafka, Kubernetes
+</p>
 
-<div style="display:flex; gap:1rem; align-items: center;">
-    <a href="https://www.linkedin.com/in/ankitkrmishra07/">
-        <img width="30px" src="assets/linkedin.svg"  />
-    </a>
-    <a href="https://twitter.com/mishra_ankit07">
-        <img width="30px" src="assets/twitter.svg" />
-    </a>
-    <a href="https://leetcode.com/spartanleonidis/">
-        <img width="70px" src="assets/leetcode.svg" />
-    </a>
-    <a href="mailto:ankit.kr.mishra07@gmail.com">
-        <img width="30px" src="assets/gmail.svg" />
-    </a>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;
+  <i><b>GitHub Stats...</b></i> 📈
+  <br><br>
+  <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraankit07&show_icons=true&layout=compact&theme=tokyonight" alt="Most Used Languages">
+  <br><br>
+  <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=mishraankit07&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Status"/>
+</p>
 
+<h3>🤝 Let's Connect!</h3>
+<p>
+If you’ve got something interesting to discuss, feel free to reach out <img src="assets/handshake.gif" width="50px"/> <br>
+📧 ankit.kr.mishra07@gmail.com <br>
+🔗 <a href="https://www.linkedin.com/in/ankitkrmishra07/">LinkedIn</a>
+</p>
