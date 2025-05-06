@@ -5,26 +5,18 @@
 
 <h3> About Me  🚀 </h3>
 <p>
-🔭 I'm a passionate Software Engineer trying to get hands on with tech.
+🔭 Passionate Software Developer having 3+ years of experience with a knack for going in-depth of algorithms.
 </p><p>
-📎 I like problem solving and exploring ideas.
+  Firm believer of consistency over motivation.
 </p><p>
-📚 I prefer Consistency over motivation. 
-</p><p>
-🌱 Enthusiast in Open Source, Web Development and Machine Learning.</p>
+🌱 Working my way up towards open-source contributions.</p>
 <p>
 
 <br />
   
-<h3>🛠 Tech Stack </h3>
+<h3>🛠 Tech Stack I currently use but not limited to/by </h3>
 <p>
-- 💻  &nbsp; Data Structures & Algorithms | C++   
-  </p><p>
-- 🌐  &nbsp; HTML | CSS | JavaScript | React
-  </p><p>
-- 🐍  &nbsp; Machine Learning | Python | Jupyter | OpenCV
-  </p><p>
-- 🔧  &nbsp; Visual Studio code | Sublime | Git
+- 💻  &nbsp; Scala, Java, Spring Boot, Redis, Kafka, Kubernetes.
   </p>
 
 <p align="center">
